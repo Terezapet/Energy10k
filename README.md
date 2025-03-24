@@ -14,7 +14,7 @@ The ultimate goal is to build a scalable pipeline to **quantify regulatory disco
 
 | File | Description |
 |------|-------------|
-| `Final_Project.ipynb` | Complete notebook with final analysis, modeling, and write-up. |
+| `Final_Project_Report.pdf` | Report with final analysis, modeling, and write-up. |
 | `Discovery_Memo.ipynb` | Early exploratory analysis using mutual information and topic modeling. |
 | `Measurement_Memo.ipynb` | Codebook design, hand-coding of text, and intercoder reliability testing. |
 | `Measurement_Memo_II.ipynb` | Supervised learning, model evaluation, and classification using ML & GPT. |
